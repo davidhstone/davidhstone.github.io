@@ -8,6 +8,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: This is my first description! 
+description: This is where I'll drop some on my music! 
 
 ---
