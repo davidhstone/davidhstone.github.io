@@ -1,12 +1,13 @@
 ---
+title: Horoscope App
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: cabin.png
+img: ZodiacApp.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+description: This app is one of the projects I've worked on while in the midst of General Assembly's Android Development Immersive course. The app was given to us somewhat functional, but it lacked functinoality that allowed tablet users to see the zodiac sign list screen and the horoscope of whatever sign is clicked on the same screen. This added functtionality results not only in increased ease of navigation by making it unneccesary to click the back button to get to the list of zodiac signs, it also looks a lot better in a split screen! The added functionality resulted from adding a couple fragments and intents, and setting the layout_weight attribute to 0.5 for both the frame layout and fragment in the activity_main.xml file for large screens. Pretty cool...
 
 ---
