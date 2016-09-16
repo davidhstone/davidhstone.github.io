@@ -2,11 +2,11 @@
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: cake.png
+img: donor_dough.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+description: Donor Dough is an educational app that shows congressional campaign donor info by inputting a street address and zip code. . It's in beta-testing now. This version contains some dummy data after the first api call, and no logo for the app. The second call, which results from a button click on the second screen, shows real data for the top industry donors of selected congressperson. v2, which is already in progress, will have an updated share feature, a login and save feature, and a an api call which will respond with the top 10 donors for the selected politician. There are some known bugs and there may be an expired API key depending on when you access the app. You can see it in Google PlayStore beta-testing at https://play.google.com/store/apps/details?id=com.undercurrentrecs.davidhstone.donor_dough
 
 ---
